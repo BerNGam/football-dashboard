@@ -5,7 +5,7 @@ Projet réalisé pour mettre en pratique React et la visualisation de données.
 
 ##  Demo
 
-![Dashboard](assets/site.png)
+![Dashboard](src/assets/site.png)
 
 ##  Stack technique
 
@@ -21,7 +21,7 @@ Projet réalisé pour mettre en pratique React et la visualisation de données.
 - 🎯 Comparaison des joueurs par radar chart
 - 🏆 4 championnats : Ligue 1, Premier League, La Liga, Bundesliga
 
-## 📦 Installation
+##  Installation
 ```bash
 git clone git@github.com:BerNGam/football-dashboard.git
 cd football-dashboard
@@ -29,7 +29,7 @@ npm install
 npm run dev
 ```
 
-## 🔮 Améliorations prévues
+##  Améliorations prévues
 
 - Connexion à une vraie API football (football-data.org)
 - Backend Python/Flask avec base de données SQL
