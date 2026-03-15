@@ -5,6 +5,8 @@ Projet réalisé pour mettre en pratique React et la visualisation de données.
 
 ##  Demo
 
+[Voir le projet en ligne](https://football-dashboard-eta.vercel.app)
+
 ![Dashboard](src/assets/site.png)
 
 ##  Stack technique
