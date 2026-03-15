@@ -5,7 +5,8 @@ Projet réalisé pour mettre en pratique React et la visualisation de données.
 
 ##  Demo
 
-![Dashboard](src\assets\site.png)
+![Dashboard](src/assets/site.png)
+
 ##  Stack technique
 
 - **React** + Vite — interface utilisateur
